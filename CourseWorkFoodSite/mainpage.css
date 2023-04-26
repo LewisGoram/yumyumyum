@@ -1,0 +1,89 @@
+header {
+  font-size: xxx-large;
+  text-align: center;
+  padding: 30px;
+  background-color: #4a4a4a;
+  color: #f9f9f9;
+  font-family: STCaiyun;
+}
+body {
+	background-color: #333;
+	
+}
+
+nav {
+   background-color: #333;
+      }
+      
+nav a {
+        display: inline-block;
+        color: white;
+        padding: 14px 16px;
+        text-decoration: none;
+		font-family: STCaiyun;
+      }
+      
+nav a:hover {
+        background-color: #ddd;
+        color: black;
+      }
+    
+.container {
+  position: relative;
+  top: 100px;
+  left: 250px;
+  width: 700px;
+  height: 300px;
+  background-color: #eee;
+}
+
+.container>div {
+  text-align: center;
+  padding: 20px auto;
+  font-size: 35px;
+}
+
+.container2 {
+  position: relative;
+  top: 200px;
+  left: 250px;
+  width: 700px;
+  height: 300px;
+  background-color: #eee;
+}
+
+.container2>div {
+  text-align: center;
+  padding: 20px auto;
+  font-size: 35px;
+}
+
+.container3 {
+  position: relative;
+  top: -500px;
+  left: 1000px;
+  width: 700px;
+  height: 300px;
+  background-color: #eee;
+}
+
+.container3>div {
+  text-align: center;
+  padding: 20px auto;
+  font-size: 35px;
+}
+
+.container4 {
+  position: relative;
+  top: -400px;
+  left: 1000px;
+  width: 700px;
+  height: 300px;
+  background-color: #eee;
+}
+
+.container4>div {
+  text-align: center;
+  padding: 20px auto;
+  font-size: 35px;
+}

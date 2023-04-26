@@ -1,0 +1,35 @@
+header {
+  font-size: xxx-large;
+  text-align: center;
+  padding: 30px;
+  background-color: #4a4a4a;
+  color: #f9f9f9;
+  font-family: STCaiyun;
+}
+
+body {
+	background-color: #333;
+	
+}
+
+.container {
+  position: relative;
+  top: 100px;
+  left: 450px;
+  width: 1000px;
+  height: 100px; 
+}
+.center {
+  position: absolute;
+  top: 320px;
+  left: 450px;
+  width: 100px;
+  text-align: center;
+  font-size: 50px;
+}
+
+img { 
+  width: 100%;
+  height: 700px;
+  opacity: 2.7;
+}
